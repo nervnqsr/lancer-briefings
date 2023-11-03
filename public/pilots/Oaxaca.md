@@ -1,1 +1,7 @@
-## DOSSIER NOT FOUND
+Born with insatiable curiosity and natural affinity for learning, the young Alexander tinkered with home appliances and found solace in reading old battle maps. With support from his modest family, he'd breezed through his planet's rudimentary education, working several odd jobs to earn enough Manna for a pursuit in engineering. Proposed a waivered enlistment fee and fast-track through **MSMC**'s training program, the youth found the offer irresistible and joined quickly after graduating with full accolades. He'd aced the practicum and demonstrated a profound capacity for leadership and quick thinking during his milkrun, leading to an assignment as Field Leader for a small team.
+
+However, his third mission had met with critical failure, the lacking intel and a hasty call leading to severe casualties within the squad. His squadmates had all perished in the battle or during recovery. Alexander himself sustained injuries which would take years to fully recover from. Seeing this mostly as an opportunity to hone the man's judgment, **MSMC** continued viewing their investment in the man with high regard - his deep ambition to prove himself as Mech pilot remained undeterred. Now fielded again, he holds caution and mindfulness as the foremost elements in his approach to every mission.
+
+## Notes
+- Finds profound guilt in making the call that led to his squad's annihilation
+- Intense fear readings present during every mission since, though appears easily suppressed by sheer mental fortitude
