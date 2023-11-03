@@ -95,62 +95,62 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Scramble for Fortune",
           "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
+          "callsign": "Oaxaca",
+          "alias": "Alexander Agramonte",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "corpro": "IPS-N",
+          "frame": "Tortuga",
+          "mech": "Hair of the Dog"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Necrophile"
+          "callsign": "Wanderer",
+          "alias": "Friar",
+          "code": "ec533c4-41af-5cf7-b492-d6650503b706///SUR-V-IVEP-ROTECTRE-P-ENT//1fad4a-4f89-bcd9-d501464e960da",
+          "corpro": "HORUS",
+          "frame": "Gorgon",
+          "mech": "Cyclops"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
+          "callsign": "Scapegoat",
+          "alias": "Jabal Kamin",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "corpro": "SSC",
+          "frame": "Death's Head",
+          "mech": "Nicopolis"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
+          "callsign": "Overclock",
+          "alias": "Olivier Fortin",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mayfly"
+          "corpro": "HA",
+          "frame": "Tokugawa",
+          "mech": "Moveable Force"
         },
         {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
+          "callsign": "Janus",
+          "alias": 'Kesarik Mercer',
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
+          "corpro": "HORUS",
+          "frame": "Lich",
+          "mech": "Soth"
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
+        "planet": "Nariphon",
+        "year": "5017u",
+        "system": "Hanuman-6",
+        "gate": "Rong Xuanwang",
+        "ring": "Annamite-Line",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderTitle": "Security Detail",
+        "subheaderSubtitle": "381st Detachment \"SKOSS\"",
       },
       "options":{
         "eventsMarkdownPerMission": true

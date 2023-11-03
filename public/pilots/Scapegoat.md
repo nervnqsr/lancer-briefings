@@ -1,0 +1,8 @@
+Former sniper of Pashto’s 133rd Irregular Regiment, 7th Recon Platoon. Jabal Kamin and his unit fought in the Third Intergalactic War on the Spiral Point Theatre. Pashto’s refusal of the initial terms had dragged his entire existence into the war against the invaders, and then, the occupiers. Pashto’s fierce independent civil resistance and partisan warfare were the reasons that kept the entire theatre as a flash point within the greater strategic picture. Pashto’s late, but eventual, surrender earned it severe terms, heavy impositions, and unfavourable provisions in the peace treaty that followed.
+
+The one which concerned Jabal Kamin the most were the demilitarisation of Pashto and the prosecution of its members of the military for war crimes. Traditionally, snipers were highly reviled and if caught were often subjected to indignities whether in captivity or after the conflict. Jabal Kamin’s qualifications to use **DEATH'S HEAD** were what ultimately saved him from the chopping block. Incarcerated for life on a nearby penal colony, all Jabal could do was simply keep his head down and pretend he had never been to war in the first place.
+
+As the Union arrived to restore civilisation and abolish the penal colony, Jabal was freed from bondage but could not escape the reputation that came with the false charges levied against him.
+
+## Notes
+- Exploitable asset with remarkable skill and experience
