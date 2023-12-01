@@ -1,0 +1,21 @@
+# Mission // #001
+## Scramble for Fortune
+# Goals
+- ~~Scout out the designated area for a safe location where the science team can land and settle within 12 hours. Afterwards, they will need multiple days to prepare specialized equipment for retrieval of the artifact.~~
+- ~~Search for and ward off any potential threats, whether it be other parties or the environment itself. Form a perimeter around the quarry once it's in operation. We anticipate opposing forces to coordinate an attack at this critical moment.~~
+  - ~~Stop any attempts from raiders to seize control of the area. Maintain strategic control of the quarry by the time the science team resurfaces.~~
+- Safely escort the artifact, the team, and the equipment off the planet.
+  - Their lives are more important than yours, don't forget it.
+
+# Stakes
+- Possession of the monolith is critical to Union. They've entrusted the lives of their far-field science team to your protection.
+
+# Reserves
+- Environmental shielding (1 mech)
+
+## ERROR:
+## INSUFFICIENT CLEARANCE FOR FURTHER INTEL
+
+
+
+# PAYMENT CONSTITUTES ACQUISITION OF SELECTED MANUFACTURER LICENSE, AWARDED AFTER SUCCESSFUL EXECUTION OF MISSION. TERMS APPLY. THIS CONTRACT IS CONSIDERED LEGALLY BINDING AFTER ACCEPTANCE OF ASSIGNMENT. DEATH, BREAKING PROTOCOL AND/OR FAILURE OF MISSION OBJECTIVES, OR ANY SIGNIFICANT ALTERATIONS OF RELATIONSHIP TO CONTRACTOR CONSTITUTE FORFEITURE OF PAYMENT AND POSSIBLE FINE.
