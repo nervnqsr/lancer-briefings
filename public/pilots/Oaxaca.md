@@ -5,3 +5,4 @@ However, his third mission had met with critical failure, the lacking intel and 
 ## Notes
 - Finds profound guilt in making the call that led to his squad's annihilation
 - Intense fear readings present during every mission since, though appears easily suppressed by sheer mental fortitude
+- Undergoing leadership training

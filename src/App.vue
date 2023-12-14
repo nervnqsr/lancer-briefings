@@ -89,14 +89,19 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "002",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "001",
           "name": "Scramble for Fortune",
-          "status": "in progress"
+          "status": "success"
+        },
+        {
+          "slug": "002",
+          "name": "Technical Assistance",
+          "status": "start"
         },
       ],
       "pilots": [
@@ -212,7 +217,7 @@ export default {
 <style lang="scss">
 #app {
   width: 1902px;
-  height: 970px;
+  height: 910px;
   overflow: hidden;
 }
 </style>
