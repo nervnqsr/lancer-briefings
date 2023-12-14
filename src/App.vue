@@ -213,6 +213,6 @@ export default {
 #app {
   width: 1902px;
   height: 970px;
-  overflow: auto;
+  overflow: scroll;
 }
 </style>
