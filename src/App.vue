@@ -1,7 +1,7 @@
 <template>
   <Header :header="this.header" />
   <div class="content-container">
-    <section class="section-container" id="missions" style="width:435px; height:714px;">
+    <section class="section-container" id="missions" style="width:435px; height:550px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/mission-icon.svg" />
         <h1>Mission Log</h1>
@@ -213,6 +213,6 @@ export default {
 #app {
   width: 1902px;
   height: 970px;
-  overflow: scroll;
+  overflow: hidden;
 }
 </style>
