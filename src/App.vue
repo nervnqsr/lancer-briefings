@@ -96,7 +96,7 @@ export default {
         {
           "slug": "001",
           "name": "Scramble for Fortune",
-          "status": "start"
+          "status": "in progress"
         },
       ],
       "pilots": [
@@ -212,7 +212,7 @@ export default {
 <style lang="scss">
 #app {
   width: 1902px;
-  height: 910px;
-  overflow: hidden;
+  height: 970px;
+  overflow: auto;
 }
 </style>
